@@ -1,12 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4150BD56-169E-4B2E-935F-62D2315A9070}|..\\TestesAtividade\\TestesAtividade.csproj|c:\\users\\56026708820\\desktop\\aprendendo_xunittest\\testconsolexunit\\testesatividade\\testeemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80CCAE8-0C69-42F1-AB68-480CE3F96F1F}|ValidadorEmail\\ValidadorEmail.csproj|c:\\users\\56026708820\\desktop\\aprendendo_xunittest\\testconsolexunit\\calculos\\validadoremail\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80CCAE8-0C69-42F1-AB68-480CE3F96F1F}|ValidadorEmail\\ValidadorEmail.csproj|solutionrelative:validadoremail\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\ValidadorEmail\\Email.cs",
+              "RelativeDocumentMoniker": "ValidadorEmail\\Email.cs",
+              "ToolTip": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\ValidadorEmail\\Email.cs",
+              "RelativeToolTip": "ValidadorEmail\\Email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:21:51.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TesteEmail.cs",
+              "DocumentMoniker": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\TestesAtividade\\TesteEmail.cs",
+              "RelativeDocumentMoniker": "..\\TestesAtividade\\TesteEmail.cs",
+              "ToolTip": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\TestesAtividade\\TesteEmail.cs",
+              "RelativeToolTip": "..\\TestesAtividade\\TesteEmail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:21:19.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

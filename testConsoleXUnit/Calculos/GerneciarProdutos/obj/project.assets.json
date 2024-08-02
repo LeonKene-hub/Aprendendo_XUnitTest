@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\GerneciarProdutos\\GerneciarProdutos.csproj",
+      "projectUniqueName": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\GerneciarProdutos\\GerneciarProdutos.csproj",
       "projectName": "GerneciarProdutos",
-      "projectPath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\GerneciarProdutos\\GerneciarProdutos.csproj",
+      "projectPath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\GerneciarProdutos\\GerneciarProdutos.csproj",
       "packagesPath": "C:\\Users\\56026708820\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\GerneciarProdutos\\obj\\",
+      "outputPath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\GerneciarProdutos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\56026708820\\AppData\\Roaming\\NuGet\\NuGet.Config",

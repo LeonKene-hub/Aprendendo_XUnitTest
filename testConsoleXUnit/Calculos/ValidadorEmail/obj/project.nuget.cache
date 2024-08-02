@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tqyzwNuTO3obbZ0eL1SqzdPtl3Li8k5Ga9xvpFRf6qRK1foLo40JTyfNehZbqUYw6zHJq9PRqac9EOLFgWuEcw==",
+  "dgSpecHash": "SHuz6Dy5LvlssFDiQzacaiDB6HQM9oAzLHNHpoiuqk0fAaLagTewRe5Bc0ec1UnPxpl3/1pZpg8ZDpl2MVtsFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\ValidadorEmail\\ValidadorEmail.csproj",
+  "projectFilePath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\ValidadorEmail\\ValidadorEmail.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AvoLF7lF6yQpwiOlBzpgZid2QnKRC5SA/nuxwrB9nyja8Cj1I/+sEraPuiJYlpFMLJ8Gyq9hpPrfFMYkoFcYNA==",
+  "dgSpecHash": "5nSuQ7ezr9KFsNqf0RAF/n/o5QauhgEMl5gYiLaE4rMra9cZ6lOLdtyUCJaFjO0/tOuzffjrQpxKK5WcR4Mohw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\Termologia\\Termologia.csproj",
+  "projectFilePath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\Termologia\\Termologia.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

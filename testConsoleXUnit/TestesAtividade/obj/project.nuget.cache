@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kqtDZQQQmnley2OPI6ZiFrlKzwmkTbxekrkYrtW7vCvRseVdoXswcfN5VVS97twSp+8ly8aV9zayhtMwvesF3A==",
+  "dgSpecHash": "nVPDfsyvBHki0C/mnwXUQW3/Pu2ZuKs76fpHy2DTiDNiuOEbQir0K9UDSmJMgNURUKMvzyflKEQkdwB04Hanxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\TestesAtividade\\TestesAtividade.csproj",
+  "projectFilePath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\TestesAtividade\\TestesAtividade.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\56026708820\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\56026708820\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

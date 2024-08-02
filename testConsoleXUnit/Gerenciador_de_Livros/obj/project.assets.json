@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Gerenciador_de_Livros\\Gerenciador_de_Livros.csproj",
+      "projectUniqueName": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Gerenciador_de_Livros\\Gerenciador_de_Livros.csproj",
       "projectName": "Gerenciador_de_Livros",
-      "projectPath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Gerenciador_de_Livros\\Gerenciador_de_Livros.csproj",
+      "projectPath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Gerenciador_de_Livros\\Gerenciador_de_Livros.csproj",
       "packagesPath": "C:\\Users\\56026708820\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Gerenciador_de_Livros\\obj\\",
+      "outputPath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Gerenciador_de_Livros\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\56026708820\\AppData\\Roaming\\NuGet\\NuGet.Config",

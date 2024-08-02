@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M51Yq+/LiNS56MOQgz5WftVFNzLahTeL5rQHW9f3SAVN52RvY1Bxw6WC4aT/j3jf/NF2tEr9Gx9nAAxU0WVTEw==",
+  "dgSpecHash": "ZuGiqnDCON/fGYQT52gMlO6u97dN/SyRkdDShu8i6kEEaEorklzVLLQbsE+3gjjz1J1vY1cVG8luMqtu9IUK9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Gerenciador_de_Livros\\Gerenciador_de_Livros.csproj",
+  "projectFilePath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Gerenciador_de_Livros\\Gerenciador_de_Livros.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

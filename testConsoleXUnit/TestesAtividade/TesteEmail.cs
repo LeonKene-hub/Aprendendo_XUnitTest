@@ -10,19 +10,18 @@ namespace TestesAtividade
 {
     public class TesteEmail
     {
-        [Fact]
-        public void TestarMetodoValidarEmail()
+        //Arrange : Organizar
+        [Theory]
+        [InlineData("pedrogmail.com")]
+        [InlineData("pedro@gmailcom")]
+        [InlineData("pedro@gmail.com")]
+        public void TestarMetodoValidarEmail(string email)
         {
-            //Arrange : Organizar
-            string email = "@.";
-
-            var respostaEsperada = true;
-
             //Act : Agir
             var resposta = Email.ValidarEmail(email);
 
             //Assert : Provar
-            Assert.Equal(respostaEsperada, resposta);
+            Assert.True(resposta);
         }
     }
 }

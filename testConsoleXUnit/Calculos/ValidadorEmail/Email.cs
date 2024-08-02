@@ -8,6 +8,7 @@ namespace ValidadorEmail
 {
     public static class Email
     {
+
         public static bool ValidarEmail(string email)
         {
             if (email.Contains("@") && email.Contains("."))

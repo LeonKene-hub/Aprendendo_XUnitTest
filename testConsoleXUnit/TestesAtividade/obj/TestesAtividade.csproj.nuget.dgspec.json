@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\TestesAtividade\\TestesAtividade.csproj": {}
+    "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\TestesAtividade\\TestesAtividade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\GerneciarProdutos\\GerneciarProdutos.csproj": {
+    "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\GerneciarProdutos\\GerneciarProdutos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\GerneciarProdutos\\GerneciarProdutos.csproj",
+        "projectUniqueName": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\GerneciarProdutos\\GerneciarProdutos.csproj",
         "projectName": "GerneciarProdutos",
-        "projectPath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\GerneciarProdutos\\GerneciarProdutos.csproj",
+        "projectPath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\GerneciarProdutos\\GerneciarProdutos.csproj",
         "packagesPath": "C:\\Users\\56026708820\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\GerneciarProdutos\\obj\\",
+        "outputPath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\GerneciarProdutos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\56026708820\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\Termologia\\Termologia.csproj": {
+    "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\Termologia\\Termologia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\Termologia\\Termologia.csproj",
+        "projectUniqueName": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\Termologia\\Termologia.csproj",
         "projectName": "Termologia",
-        "projectPath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\Termologia\\Termologia.csproj",
+        "projectPath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\Termologia\\Termologia.csproj",
         "packagesPath": "C:\\Users\\56026708820\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\Termologia\\obj\\",
+        "outputPath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\Termologia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\56026708820\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -124,14 +124,14 @@
         }
       }
     },
-    "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\ValidadorEmail\\ValidadorEmail.csproj": {
+    "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\ValidadorEmail\\ValidadorEmail.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\ValidadorEmail\\ValidadorEmail.csproj",
+        "projectUniqueName": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\ValidadorEmail\\ValidadorEmail.csproj",
         "projectName": "ValidadorEmail",
-        "projectPath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\ValidadorEmail\\ValidadorEmail.csproj",
+        "projectPath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\ValidadorEmail\\ValidadorEmail.csproj",
         "packagesPath": "C:\\Users\\56026708820\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\ValidadorEmail\\obj\\",
+        "outputPath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\ValidadorEmail\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\56026708820\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -184,14 +184,14 @@
         }
       }
     },
-    "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Gerenciador_de_Livros\\Gerenciador_de_Livros.csproj": {
+    "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Gerenciador_de_Livros\\Gerenciador_de_Livros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Gerenciador_de_Livros\\Gerenciador_de_Livros.csproj",
+        "projectUniqueName": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Gerenciador_de_Livros\\Gerenciador_de_Livros.csproj",
         "projectName": "Gerenciador_de_Livros",
-        "projectPath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Gerenciador_de_Livros\\Gerenciador_de_Livros.csproj",
+        "projectPath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Gerenciador_de_Livros\\Gerenciador_de_Livros.csproj",
         "packagesPath": "C:\\Users\\56026708820\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Gerenciador_de_Livros\\obj\\",
+        "outputPath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Gerenciador_de_Livros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\56026708820\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -244,14 +244,14 @@
         }
       }
     },
-    "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\TestesAtividade\\TestesAtividade.csproj": {
+    "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\TestesAtividade\\TestesAtividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\TestesAtividade\\TestesAtividade.csproj",
+        "projectUniqueName": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\TestesAtividade\\TestesAtividade.csproj",
         "projectName": "TestesAtividade",
-        "projectPath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\TestesAtividade\\TestesAtividade.csproj",
+        "projectPath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\TestesAtividade\\TestesAtividade.csproj",
         "packagesPath": "C:\\Users\\56026708820\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\TestesAtividade\\obj\\",
+        "outputPath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\TestesAtividade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\56026708820\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -268,17 +268,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\GerneciarProdutos\\GerneciarProdutos.csproj": {
-                "projectPath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\GerneciarProdutos\\GerneciarProdutos.csproj"
+              "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\GerneciarProdutos\\GerneciarProdutos.csproj": {
+                "projectPath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\GerneciarProdutos\\GerneciarProdutos.csproj"
               },
-              "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\Termologia\\Termologia.csproj": {
-                "projectPath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\Termologia\\Termologia.csproj"
+              "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\Termologia\\Termologia.csproj": {
+                "projectPath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\Termologia\\Termologia.csproj"
               },
-              "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\ValidadorEmail\\ValidadorEmail.csproj": {
-                "projectPath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\ValidadorEmail\\ValidadorEmail.csproj"
+              "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\ValidadorEmail\\ValidadorEmail.csproj": {
+                "projectPath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\ValidadorEmail\\ValidadorEmail.csproj"
               },
-              "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Gerenciador_de_Livros\\Gerenciador_de_Livros.csproj": {
-                "projectPath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Gerenciador_de_Livros\\Gerenciador_de_Livros.csproj"
+              "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Gerenciador_de_Livros\\Gerenciador_de_Livros.csproj": {
+                "projectPath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Gerenciador_de_Livros\\Gerenciador_de_Livros.csproj"
               }
             }
           }

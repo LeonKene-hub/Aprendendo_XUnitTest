@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/1Rs7jYipYRjiu+DS5oCSPL/mvd7m4PKeNIF8Qn6j9iCgt0B0cRqeeSRHhh80YHubFEu17oky+p+TWI6tYkNCQ==",
+  "dgSpecHash": "75d0vSffU0SnJ/rcQJHhT6NFouuz6CzGhE4MgFuZFsdilIh/yqmtQjEZOHPqhgAW22qWE6SZ27KZ2hkgazcDVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\56026708820\\Desktop\\testConsoleXUnit\\Calculos\\GerneciarProdutos\\GerneciarProdutos.csproj",
+  "projectFilePath": "C:\\Users\\56026708820\\Desktop\\Aprendendo_XUnitTest\\testConsoleXUnit\\Calculos\\GerneciarProdutos\\GerneciarProdutos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
