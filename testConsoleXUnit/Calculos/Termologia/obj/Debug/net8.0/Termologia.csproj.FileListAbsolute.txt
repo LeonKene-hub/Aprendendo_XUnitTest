@@ -1,0 +1,14 @@
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\Termologia\bin\Debug\net8.0\Termologia.exe
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\Termologia\bin\Debug\net8.0\Termologia.deps.json
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\Termologia\bin\Debug\net8.0\Termologia.runtimeconfig.json
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\Termologia\bin\Debug\net8.0\Termologia.dll
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\Termologia\bin\Debug\net8.0\Termologia.pdb
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\Termologia\obj\Debug\net8.0\Termologia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\Termologia\obj\Debug\net8.0\Termologia.AssemblyInfoInputs.cache
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\Termologia\obj\Debug\net8.0\Termologia.AssemblyInfo.cs
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\Termologia\obj\Debug\net8.0\Termologia.csproj.CoreCompileInputs.cache
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\Termologia\obj\Debug\net8.0\Termologia.dll
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\Termologia\obj\Debug\net8.0\refint\Termologia.dll
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\Termologia\obj\Debug\net8.0\Termologia.pdb
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\Termologia\obj\Debug\net8.0\Termologia.genruntimeconfig.cache
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\Termologia\obj\Debug\net8.0\ref\Termologia.dll

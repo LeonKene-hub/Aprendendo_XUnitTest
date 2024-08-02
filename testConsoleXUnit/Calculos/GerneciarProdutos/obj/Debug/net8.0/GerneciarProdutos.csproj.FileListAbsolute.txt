@@ -1,0 +1,14 @@
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\GerneciarProdutos\bin\Debug\net8.0\GerneciarProdutos.exe
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\GerneciarProdutos\bin\Debug\net8.0\GerneciarProdutos.deps.json
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\GerneciarProdutos\bin\Debug\net8.0\GerneciarProdutos.runtimeconfig.json
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\GerneciarProdutos\bin\Debug\net8.0\GerneciarProdutos.dll
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\GerneciarProdutos\bin\Debug\net8.0\GerneciarProdutos.pdb
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\GerneciarProdutos\obj\Debug\net8.0\GerneciarProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\GerneciarProdutos\obj\Debug\net8.0\GerneciarProdutos.AssemblyInfoInputs.cache
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\GerneciarProdutos\obj\Debug\net8.0\GerneciarProdutos.AssemblyInfo.cs
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\GerneciarProdutos\obj\Debug\net8.0\GerneciarProdutos.csproj.CoreCompileInputs.cache
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\GerneciarProdutos\obj\Debug\net8.0\GerneciarProdutos.dll
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\GerneciarProdutos\obj\Debug\net8.0\refint\GerneciarProdutos.dll
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\GerneciarProdutos\obj\Debug\net8.0\GerneciarProdutos.pdb
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\GerneciarProdutos\obj\Debug\net8.0\GerneciarProdutos.genruntimeconfig.cache
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\GerneciarProdutos\obj\Debug\net8.0\ref\GerneciarProdutos.dll

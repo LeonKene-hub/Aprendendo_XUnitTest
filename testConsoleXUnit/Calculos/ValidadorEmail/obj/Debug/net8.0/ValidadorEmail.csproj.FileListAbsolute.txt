@@ -1,0 +1,14 @@
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\ValidadorEmail\bin\Debug\net8.0\ValidadorEmail.exe
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\ValidadorEmail\bin\Debug\net8.0\ValidadorEmail.deps.json
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\ValidadorEmail\bin\Debug\net8.0\ValidadorEmail.runtimeconfig.json
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\ValidadorEmail\bin\Debug\net8.0\ValidadorEmail.dll
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\ValidadorEmail\bin\Debug\net8.0\ValidadorEmail.pdb
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\ValidadorEmail\obj\Debug\net8.0\ValidadorEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\ValidadorEmail\obj\Debug\net8.0\ValidadorEmail.AssemblyInfoInputs.cache
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\ValidadorEmail\obj\Debug\net8.0\ValidadorEmail.AssemblyInfo.cs
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\ValidadorEmail\obj\Debug\net8.0\ValidadorEmail.csproj.CoreCompileInputs.cache
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\ValidadorEmail\obj\Debug\net8.0\ValidadorEmail.dll
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\ValidadorEmail\obj\Debug\net8.0\refint\ValidadorEmail.dll
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\ValidadorEmail\obj\Debug\net8.0\ValidadorEmail.pdb
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\ValidadorEmail\obj\Debug\net8.0\ValidadorEmail.genruntimeconfig.cache
+C:\Users\56026708820\Desktop\testConsoleXUnit\Calculos\ValidadorEmail\obj\Debug\net8.0\ref\ValidadorEmail.dll
